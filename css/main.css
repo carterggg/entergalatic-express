@@ -1,0 +1,35 @@
+/* BASE */
+h1 {
+  font-family: "arial"; }
+
+/* LAYOUT */
+.align-center {
+  text-align: center;
+  margin: auto;
+  align-content: center; }
+
+/* MODULE */
+/* STATE */
+/* THEME */
+/* FORM */
+input, textarea {
+  display: block;
+  margin-bottom: 15px;
+  width: 100%;
+  border: black solid 1px; }
+
+label {
+  margin-bottom: 0px; }
+
+.error {
+  color: blue; }
+
+form {
+  width: 100%; }
+
+#about {
+  background: url(../img/2-background.jpg) no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover; }
